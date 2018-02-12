@@ -1,4 +1,4 @@
-# HW-3 Readme for YOUR_NAME
+# HW-3 Readme for Ellen Kearns
 
 Please place your response to this week here.
 
