@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+body {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+h1 {
+    font-family: 'Fjalla One', sans-serif;
+    line-height: 1.5 em;
+    font-weight: 100;
+    margin-bottom: 1.5em;
+    text-align: center;
+    color: white;
+}
+
+div.intro {
+  text-align: center;
+}
+
+div.Cinema {
+  text-align: center;
+}
+
+div.Photo {
+  text-align: center;
+}
+
+
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 200px;
+    margin-left: 100px;
+}
