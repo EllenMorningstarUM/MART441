@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+body {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+#weather{
+  font-family: 'Fjalla One', sans-serif;
+      line-height: 1.5 em;
+      font-weight: 100;
+      margin-bottom: 1.5em;
+      text-align: center;
+      color: white;
+
+      position: fixed;
+      top: 50%;
+      left: 50%
+      transform: translate(-50%, -50%);
+  }
+
+  #cityname{
+    color: black;
+    font-family: 'Fjalla One' sans-serif;
+    text-align:center;
+    font-size: 30;
+  }
+
+p{
+  color: black;
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+}
